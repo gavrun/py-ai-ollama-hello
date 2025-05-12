@@ -1,0 +1,13 @@
+Summarize the entire content in two parts:
+
+{text}
+
+1. Provide a 5 to 10-words summary of your answer. Keep it concise and self-contained.
+2. Then, provide the full answer, detailed text with complete yet structured reply.
+
+Strictly follow output format:
+
+Short answer
+...
+Full answer
+...
